@@ -1,0 +1,4 @@
+def checkRecord(n):
+    """
+    """
+    pass
